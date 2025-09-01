@@ -46,16 +46,12 @@ netflix-data-analysis/
 
 ---
 
+
 ## 📊 Sample Visualizations
+- Distribution of Movies vs TV Shows
+- Top Countries by Content Count
+- Most Common Content Ratings
 
-### 🎬 Distribution of Movies and TV Shows  
-![Movies vs TV Shows](movies-shows.png)
-
-### 🌍 Top Countries by Content Count  
-![Top Countries](country-count.png)
-
-### 🔢 Most Common Content Ratings  
-![Common Ratings](common-ratings.png)
 
 ---
 
