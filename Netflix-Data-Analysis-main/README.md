@@ -78,11 +78,3 @@ netflix-data-analysis/
 
 ---
 
-## 👩‍💻 Developed By
-
-**Mariam Shariff**  
-B.Sc. Computer Science & Mathematics 
-
----
-
-> _This project is part of my Data Science portfolio using real-world datasets for learning and showcasing practical skills._
